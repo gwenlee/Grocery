@@ -8,7 +8,7 @@ Source of data: https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-da
 - Cleaned the dataset (compared to the original data with inconsistent formats, etc _"archive.zip"_)
 - Loaded the data model for reporting
 - Visualised the data in a dashboard
-    * Revenue/Margin report
+    * Revenue/Margin report 
     * Product report
     * Customer report
     * Stock report   
