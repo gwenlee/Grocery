@@ -5,7 +5,7 @@ Source of data: https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-da
 ## Analsysis Process
 
 - Asked AI to create a mock up email, requesting business insights based on this dataset
-- Cleaned the dataset (compared to the original data with inconsistent formats, etc)
+- Cleaned the dataset (compared to the original data with inconsistent formats, etc _"archive.zip"_)
 - Loaded the data model for reporting
 - Visualised the data in a dashboard
     * Revenue/Margin report
