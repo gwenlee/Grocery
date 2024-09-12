@@ -11,6 +11,8 @@ Source of data: https://www.kaggle.com/datasets/agatii/total-sale-2018-yearly-da
     * Revenue/Margin report
     * Product report
     * Customer report
+    * Stock report   
+- General recommendations
 
 _Tools in use: MS Excel, PowerBI_
 
